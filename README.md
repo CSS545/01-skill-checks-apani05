@@ -1,1 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8828705&assignment_repo_type=AssignmentRepo)
+1. Made an Android Application using Java.
+2. This application works like a dictionary where I have added defination for Mobile Computing (1st page is the term and 2nd page is its defination).
+3. "Next" and "Back" buttons are added to navigate smoothly between pages.
