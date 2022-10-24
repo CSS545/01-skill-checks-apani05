@@ -45,7 +45,7 @@
         2. Cons:
             * While the transactions from the database storage are great, there can be an additional cost of network transfers, latency and file exchange from the system. 
 
-## 1. App that demonstrates:
+## 2. App that demonstrates:
 ###  - Store/Load a media item locally (e.g. music, video, image)
 ###  - Store/Load user settings locally
 
